@@ -66,8 +66,8 @@ npm install
 
 ### 4. Create `.env` file(Not a real .env, just an example)
 ```env
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/kazakh-menu?retryWrites=true&w=majority
-PORT=3000
+MONGODB_URI="Your_MongoDB_URI"
+PORT="Your_Port"
 ```
 
 ### 5. Start the server
